@@ -2,3 +2,5 @@
 Hello from demo.txt
 Hello Again.
 Writing from branch feature-1.
+Hello from main branch in demo.txt.
+Demo.txt from main.
